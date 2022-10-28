@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(99, 194, 215);
+    margin: 0; 
+}
+
+
+
+/*.container {
+}*/
+
+/*.header_bg {
+}*/
+
+
+/*--------------------- Header Area -----------------------------------------------------------------------*/
+
+.header_area {
+    height: 144px;
+    width:auto;
+    background-color: #011827;
+    /*display: block;*/
+}
+
+.rect_esc {
+    /*height: 82px;
+    width: 128px;*/
+    margin-top: 26px;
+    margin-left: 27px;
+}
+
+.esc {
+    margin-bottom: 12px;
+    margin-left: -119px;
+}
+
+.h_e_r {
+    /*height: 84px;
+    width: 78px;*/
+    margin-left: 60px;
+    margin-bottom: 3px; 
+}
+
+.line1 {
+   margin-left: 143px;      /* 163-20 */
+   margin-bottom:  70px;    /* 110-34-6(border)*/
+}
+
+.line2 {
+    margin-left: -55px;
+    margin-bottom: 57px;    /* 13 px mellan strecken*/
+    
+ }
+
+ .line3 {
+    margin-left: -55px;
+    margin-bottom: 44px;
+    
+ }
+
+ /*--------------------- End of Header Area -----------------------------------------------------------------------*/
+
+.hacking_picture {
+    
+}
+
+
+ .challenge_quote_area {
+    /*margin-top: -4px;*/
+    height: 220px;
+    background-color: white;
+ }
+
+ .small_head {
+    margin-left: 21px;
+ }
+
+
+
+
+
+
+
+
+
+
